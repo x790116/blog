@@ -4,10 +4,13 @@
 
 先前參加了 CSD, DevOpsDays 2018, 公司內部 AWS 教育訓練
 
+都是上課很認真, 下課很天真 (~~誤~~)
+
 希望日後都可以將心得補起來... 吧 
 
-這次就先由連續四天 CSM+CSPO 的心得來先記錄
-希望可以每天課後紀錄 ~~(富奸退散)~~
+這次就先由連續四天 CSM+CSPO 的心得來記錄
+
+希望可以每天課後紀錄, 持續交付 ~~(富奸退散)~~
 
 ---
 在課堂一開始, 呂毅老師就告訴我們一個很重要的觀念
@@ -59,9 +62,9 @@
 4. No answers, just questions.
 
 ### 而常常聽到 Scrum 還有 Agile(敏捷) ,兩者的關係是...？ 
-> ## Scrum is one of Agile Enineering Practice
+> ## Scrum is one of Agile Engineering Practice
 > 又或者說
-> ## Scrum is a framework, it implementation Agile
+> ## Scrum is a Framework, it implement Agile
 ---
 # Origin of Scrum
 1. The New, New Product Development Game*
@@ -79,6 +82,7 @@
    > Kanban 也是 Lean 方法論的其中一個實踐
    
    > Poppendieck 夫婦 將 TOYOTA 的 Lean 落實在軟體開發 
+
    > David J. Anderson 將 TOYOTA 的 Kanban 落實在軟體開發
 
 # Scrum 框架的概念
@@ -120,17 +124,17 @@ PO 關注 Item 層級的迭代優化, 也須往上關注 Inspect 層級的目標
 ![](https://ppt.cc/fdpzPx@.jpg)
 
 ---
-## 在 Sprint 中, PBI No Change, but Task Can Change.
+## 在 Sprint 中, PBI No Change, but Task Can Changes.
 
 ### 由 Why -> What -> How 三個層級去拆解任務
 > 來人啊, 上圖！
 ![](https://ppt.cc/fgitOx@.jpg)
 
 ### 額外再加碼問題與名言
-1. PO & Team 到底誰該寫 PBI(Product Backlog) ?
+1. PO & Team 到底誰該寫 PBI(Product Backlog Item) ?
    > 一起寫阿...
-3. 一個晚了的 Project, 再加人進去只會更晚...
-4. Agile : 靈活性響應變化
+2. 一個晚了的 Project, 再加人進去只會更晚...
+3. Agile : 靈活性響應變化
 ---
 # 松鼠漢堡的故事...
 
