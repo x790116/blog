@@ -46,12 +46,12 @@ Day2 的課程圍繞在 4 個領域
 2. 關於 PO 的職責與 Product Backlog 的細節與拆分
 3. 關於 Scrum Master 的角色內涵與職責應對
 4. 關於 Team 的組成與理想中不同階段的 Team
+---
+###### 中場名言錦句時間
+> ### **Team** deliver Value over Item
 
-> ## **Team** deliver Value over Item
-
-> ## **Scrum Master** deliver a Will Working Team
-
-
+> ### **Scrum Master** deliver a Will Working Team
+---
 #### 然而講述這 4 個領域的同時, 也不斷在強調 Scrum 的三本柱
 * 探索 - Inspect
 * 調適 - Adapt
