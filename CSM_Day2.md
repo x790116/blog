@@ -1,7 +1,7 @@
 # 2108-10-23(三) 呂毅 CSM Day2
 
 # Inspect & Adapt
-昨天交付了第一個 ~~*流水帳*~~ 版本的 Day1 心得
+昨天交付了 [第一個 ~~*流水帳*~~ 版本的 Day1 心得](https://github.com/x790116/blog/blob/master/CSM_Day1.md)
 
 仔細回想一下昨天的寫作方式, 就是一直看著自己的上課筆記
 
@@ -50,7 +50,7 @@ Day2 的課程圍繞在 4 個領域
 ###### 中場名言錦句時間
 > ### **Team** deliver Value over Item
 
-> ### **Scrum Master** deliver a Will Working Team
+> ### **Scrum Master** deliver a Well-Working Team
 ---
 #### 然而講述這 4 個領域的同時, 也不斷在強調 Scrum 的三本柱
 * 探索 - Inspect
