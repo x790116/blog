@@ -1,4 +1,4 @@
-# 2108-10-23(三) 呂毅 CSM Day2
+# 2108-10-24(三) 呂毅 CSM Day2
 
 # Inspect & Adapt
 昨天交付了 [第一個 ~~*流水帳*~~ 版本的 Day1 心得](https://github.com/x790116/blog/blob/master/CSM_Day1.md)
