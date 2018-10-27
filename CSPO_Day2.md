@@ -6,7 +6,9 @@
 # Scope 與 Time 之間的 Trade-off
 
 > ## Agile Product Ownership
+> 
 > 英文 ： https://youtu.be/502ILHjX9EE
+> 
 > 簡中 ： https://youtu.be/DoFj3Y_St74
 
 ---
