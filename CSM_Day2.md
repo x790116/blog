@@ -1,7 +1,20 @@
-# 2108-10-24(三) 呂毅 CSM Day2
++++
+date = "2018-10-24"
+title = "呂毅 CSM Day2"
+description = ""
+weight = 10
+tags = [
+    "CSM",
+    "Scrum",
+    "Agile",
+    "Odde",    
+]
+archives = "2018"
++++
+# 2018-10-24(三) 呂毅 CSM Day2
 
 # Inspect & Adapt
-昨天交付了 [第一個 ~~*流水帳*~~ 版本的 Day1 心得](https://github.com/x790116/blog/blob/master/CSM_Day1.md)
+昨天交付了 [第一個 ~~*流水帳*~~ 版本的 Day1 心得](https://x790116.github.io/2018/csm_day2/)
 
 仔細回想一下昨天的寫作方式, 就是一直看著自己的上課筆記
 
@@ -18,7 +31,8 @@
 
 再重看了一次昨天的 Day1 筆記, 這時候就豁然開朗了一些 AHA ～～～ 
 
-> ### 原來昨天就是在實行第一個 Walking Skeleton (或稱 MVP or 內褲版本)
+> ### 原來昨天就是在實行第一個 Walking Skeleton 
+> ### (或稱 MVP or 內褲版本)
 
 藉由第一天的迭代交付出第一個不那麼完美的版本, 進行 **Inspect**
 
@@ -34,9 +48,12 @@
 最後才有了現在這篇文章的誕生, 而且打到這邊才發現
 
 > #### 我完成了文章第一段的時間, 才恰好到我昨天交付 ~~*流水帳*~~ 的時間點 - 22:15
+
 ---
 ## 我不要太多, 但要一直有
-Day2 的課程圍繞在 4 個領域
+
+###### Day2 的課程圍繞在 4 個領域
+
 1. Scrum 的會議細節 
    * Sprint Planning
    * Daily Scrum
@@ -46,11 +63,13 @@ Day2 的課程圍繞在 4 個領域
 2. 關於 PO 的職責與 Product Backlog 的細節與拆分
 3. 關於 Scrum Master 的角色內涵與職責應對
 4. 關於 Team 的組成與理想中不同階段的 Team
+
 ---
 ###### 中場名言錦句時間
 > ### **Team** deliver Value over Item
 
 > ### **Scrum Master** deliver a Well-Working Team
+
 ---
 #### 然而講述這 4 個領域的同時, 也不斷在強調 Scrum 的三本柱
 * 探索 - Inspect
@@ -68,15 +87,17 @@ Day2 的課程圍繞在 4 個領域
 當時懷抱著自己滿滿的疑惑, 想在課程上得到解答
 
 課程結尾時對講師 Jackson 提出這個問題： 
+
 > 請問我要如何讓我的 Team Member 更加ＸＸＸ, 然後可以達到ＸＸＸ
+
 ---
 因為當時的我對於 CSD 的想像可能有點出入, 加上尚未上過 CSM 的課程
 
 當 Jackson 給出我這個回答時, 我心裡只想一件事
 
-> ### 這... 你在跟我蔣幹畫嗎？ (黑人問號 
----
+> ### 這... 你在跟我蔣幹畫嗎？ (黑人問號
 
+---
 但是今天上完整整兩天的 CSM 之後
 
 對於這句話, 我整個豁然開朗了起來呢～
@@ -85,13 +106,19 @@ Day2 的課程圍繞在 4 個領域
 
 
 原來～
+
 > #### ~~我以後也變得越來越會蔣幹畫了呢~ (誤)~~ 
 
-> ### 然而其實這句話的真諦, 便是讓專注於交付的團隊, 專注交付！
+> #### 然而其實這句話的真諦, 便是讓專注於交付的團隊, 專注交付！
+
 > (上面這一句似乎看起來有點繞口有點幹, 但真的是這樣啊～)
+
 ---
-## 凡事都是 Trade-Off, 沒有絕對, 你怎知道你是對的？
-> ## 最後一個 Part 就談論到了本次 CSM 的重點 **Scrum Master** 
+## 凡事都是 Trade-Off
+## 沒有絕對, 你怎知道你是對的？
+
+> ### 最後一個 Part 就談論到了本次 CSM 的重點 
+> ## - Scrum Master
 
 在兩天的課程中, 不斷地會有實境的情境練習題
 
@@ -104,23 +131,25 @@ Day2 的課程圍繞在 4 個領域
 
 **Scrum Master** 都會 Do something or Not
 
-> ## 不干預, 也是一種干預
+> ### 不干預, 也是一種干預
 
 從 Day1 就有不斷提到一個 **Scrum Master** 的形容詞
 
-> ## Active, Doing Nothing
+> ### Active, Doing Nothing
+
 ---
 這也是為何很多不理解 Scrum 精神與內涵的人
 
 都會覺得 **專職 Scrum Master** 是一個奇怪的行為
 
 > ## 你奇怪, 你全家都奇怪！
+
 ---
-然而 **Scrum Master** 做出的種種 Decision 都在影響團隊
+然而 **Scrum Master** 做出的種種 `Decision` 都在影響團隊
 
-但 **Scrum Master** 又不去負責團隊的 Decision Making
+但 **Scrum Master** 又不去負責團隊的 `Decision Making`
 
-反而是做一個 Decision Making Process (又是引導...)
+反而是做一個 `Decision Making Process` (又是引導...)
 
 實際上作為 **Scrum Master** 要有許多 **勇氣** 去 `做些什麼？`  or `不做些什麼？`
 
@@ -128,10 +157,8 @@ Day2 的課程圍繞在 4 個領域
 
 來讓整個團隊持續前進, 不斷改善, 最終達到自組織...
 
-> ### 那你說竟然團隊都已經達到自組織了, **Scrum Master** 要幹嘛？？？
-
+> ### 那你說竟然團隊都已經達到自組織了
+> ### **Scrum Master** 要幹嘛？？？
 
 我們下回分曉～
 ![](https://i.imgur.com/x3jU0rY.jpg)
-
-
