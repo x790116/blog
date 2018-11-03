@@ -27,6 +27,8 @@ archives = "2018"
 
 > #### 也交付我在 Day1 就想完成的 Markdown Blog
 
+前情提要：[呂毅 CSM Day1](https://x790116.github.io/2018/csm_day1/)
+
 ### 因為這個 目標 ...
 
 我其實整整 2 天都在搞 [Hugo](https://gohugo.io/) 的 Blog 架站及研究 ~~(踩雷)~~
